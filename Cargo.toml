@@ -1,0 +1,9 @@
+[package]
+name = "computer-control"
+version = "0.1.0"
+authors = ["Logan Saso <logan.saso2016@gmail.com>"]
+
+[dependencies]
+rocket = "0.3.8"
+rocket_codegen = "0.3.8"
+cpal = "0.8.1"
