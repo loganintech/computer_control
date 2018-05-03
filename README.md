@@ -1,0 +1,2 @@
+This is just a little project I'm working on to control my computer from my phone around my apartment.
+It's just a webserver tied to some commands. If you have ideas for anything to add make an issue for it :)
